@@ -1,6 +1,4 @@
 # hellow-world
-Test repository for github
-
 London Bridge is falling down
 Falling down, falling down
 London Bridge is falling down 
